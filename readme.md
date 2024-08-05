@@ -33,7 +33,7 @@
 
 ## Introduction
 
-This project is a sample project to demonstrate all GitHub Markdown features.
+This project is a sample project to test all GitHub Markdown features.
 
 ## Features
 
