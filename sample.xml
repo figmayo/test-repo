@@ -1,0 +1,15 @@
+<!-- XML Sample -->
+<person>
+  <name>John Doe</name>
+  <age>30</age>
+  <address>
+    <street>123 Main St</street>
+    <city>Anytown</city>
+    <state>CA</state>
+    <postalCode>12345</postalCode>
+  </address>
+  <phoneNumbers>
+    <phoneNumber type="home">555-555-5555</phoneNumber>
+    <phoneNumber type="work">555-555-5556</phoneNumber>
+  </phoneNumbers>
+</person>
